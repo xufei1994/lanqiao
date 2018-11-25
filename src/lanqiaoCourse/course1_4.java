@@ -30,7 +30,7 @@ public class course1_4 {
     }
     static char[] rotating(char[] a, String s){
         char[] b = java.util.Arrays.copyOf(a, a.length);
-        for(int i= 0; i< s.length(); i++){
+        for(int i = 0; i< s.length(); i++){
             if(s.charAt(i)=='x') b = rotating(b, transX);
             if(s.charAt(i)=='y') b = rotating(b, transY);
             if(s.charAt(i)=='z') b = rotating(b, transZ);

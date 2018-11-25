@@ -15,14 +15,12 @@ public class course1_3 {
                 "816357492",
                 "672159834"
         };
-        int[] nums = new int[9];
         boolean[] marked = new boolean[all.length];
         Scanner in = new Scanner(System.in);
         int count = all.length;
         for(int i = 0; i < 9; i++){
             int t = in.nextInt();
             if(t != 0){
-                nums[i] = t;
                 for(int k = 0; k < all.length; k++){
                     if(marked[k]) continue;
                     if((all[k].charAt(i) - '0') != t){
