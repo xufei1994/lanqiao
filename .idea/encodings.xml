@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/lanqiaoCourse/course1/course1_1:猜年龄.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/lanqiaoCourse/course2/course2_2:出栈次序.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/lanqiaoCourse/course2/course2_4:找钱问题.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/lanqiaoCourse/course2/course2_5:振兴中华.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/lanqiaoCourse/course3/course3_4:扑克序列.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/lanqiaoCourse/course4/course4_1:奇怪的捐赠.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/lanqiaoCourse/course4/course4_2天平称重.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/lanqiaoCourse/course4/course4_3:尼姆堆.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/lanqiaoCourse/course4/course4_4:最大公因数和最小公倍数.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/lanqiaoCourse/course4/course4_5:一步之遥.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/lanqiaoCourse/course4/course4_6:精确计算.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/lanqiaoCourse/course4/course4_7:求素数.txt" charset="GBK" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>
