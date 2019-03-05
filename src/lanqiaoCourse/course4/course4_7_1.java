@@ -13,7 +13,7 @@ public class course4_7_1 {
         while (true){
             if(isPrimer(i)){
                 count++;
-                if(count == 100002){
+                if(count == 5000002){
                     System.out.println(i);
                     break;
                 }
