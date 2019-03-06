@@ -21,9 +21,27 @@ public class question2 {
         }
         System.out.println(count * 4);
     }
-    // 从(radius, 0)这一点开始搜索边界， 然后计算边界内点的个数。
-    private static void method2(int radius){
+    private static int radiusPow2;
+    private static boolean containPoint(int x, int y){
+        return (x * x + y * y) <= radiusPow2;
+    }
 
+    // 法二
+    // 从(radius - 1, 0)这一点开始搜索边界， 然后计算边界内点的个数。
+    private static void method2(int radius){
+        int total = 0;
+        int x = 0, y = radius;
+        radiusPow2 = radius * radius;
+        while (true){
+            if(containPoint(x + 1, y)){
+                total += y;
+                x++;
+            }else{
+                y--;
+            }
+            if(y == 0) break;
+        }
+        System.out.println(total * 4);
     }
     public static void main(String[] args){
         // 测试一下方法1
@@ -31,5 +49,6 @@ public class question2 {
 
         // 运行
         method1(1000);
+        method2(1000);
     }
 }
