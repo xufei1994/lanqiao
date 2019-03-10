@@ -35,13 +35,6 @@ public class question2 {
     }
     public static void main(String[] args){
         Scanner in = new Scanner(System.in);
-//        int row = 0, col = 0;
-//        while (in.hasNext()){
-//            row++;
-//            col = in.nextLine().toCharArray().length;
-//        }
-//        System.out.print("row=" + row + ",col=" + col);
-//        return;
 
         int R = 11, C = 38;
         boolean[][] data = new boolean[R][C], copy, origin;

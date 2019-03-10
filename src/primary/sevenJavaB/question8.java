@@ -11,7 +11,7 @@ public class question8 {
     private static boolean f(int n, int k, int last, boolean print){
         if(k == 3){
             int index = Arrays.binarySearch(b, 0, count, n);
-            if(index >= 0){
+            if(index >= 0 && index >= last){
                 selected[3] = a[index];
                 if(print)System.out.printf("%d %d %d %d\n", selected[0], selected[1], selected[2], selected[3]);
                 return true;

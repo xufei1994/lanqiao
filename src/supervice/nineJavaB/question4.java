@@ -1,126 +1,82 @@
 package supervice.nineJavaB;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class question4 {
-    private static void reverse(int[] t){
-        int count = t.length;
-        for(int i = 0, l = count / 2; i < l; i++){
-            int temp = t[i];
-            t[i] = t[count - i - 1];
-            t[count - i - 1] = temp;
-        }
-    }
-    private static int[] change(int[] a,int from, int to){
-        long n = 0;
-        long base = 1;
-        n += a[a.length - 1];
-        for(int i = a.length - 2; i >= 0; i--){
-            base *= from;
-            n += base * a[i];
-        }
-
-        int[] t = new int[64];
-        int count = 0;
-        while (n >= to){
-            t[count++] = (int)(n % to);
-            n /= to;
-        }
-        t[count++] = (int)n;
-
-        t = Arrays.copyOf(t, count);
-        for(int i = 0, l = count / 2; i < l; i++){
-            int temp = t[i];
-            t[i] = t[count - i - 1];
-            t[count - i - 1] = temp;
-        }
-        return t;
-    }
-    private static void print(int[] t){
-        for(int i = 0; i < t.length; i++){
-            System.out.print(t[i] > 9 ? (char)(t[i] - 10 + 'A') : (char)(t[i] + '0'));
-        }
-    }
-    private static int[] parseNum(char[] c){
+    private static long parseNumTo10(String s, int from){
+        char[] c = s.toCharArray();
         int N = c.length;
         int[] a = new int[N];
         for(int i = 0; i < N; i++){
             char t = c[i];
-            if(t >= '0' && t <= '9'){
-                a[i] = t - '0';
-            }else{
-                a[i] = t - 'A';
-            }
+            a[i] = t >= '0' && t <= '9' ? t - '0' : t - 'A';
         }
-        return a;
+        long base = 1;
+        long r = 0;
+        for(int i = a.length - 1; i >= 0; i--){
+            r += a[i] * base;
+            base *= from;
+        }
+        return r;
     }
-    private static int[] add(int[] a, int b[], int k){
-        int N = Math.max(a.length, b.length) + 1;
-        int[] c = new int[N + 1];
-        for(int i = 1; i <= N; i++){
-            int p = a.length - i >= 0 ? a[a.length - i] : 0,
-                    q = b.length - i >= 0 ? b[b.length - i] : 0;
-            int r = p + q;
-            if(r >= k){
-                c[i] = 1;
-                r -= k;
-            }
-            c[i - 1] = r;
+    private static void print(long n, int k){
+        int[] t = new int[64];
+        int count = 0;
+        while (n > 0){
+            t[count++] = (int)(n % k);
+            n /= k;
         }
-        if(c[N] == 0) c = Arrays.copyOf(c, N);
-        reverse(c);
-        return c;
+        for(int i = count - 1; i >= 0; i--){
+            System.out.print(t[i] > 9 ? (char)(t[i] - 10 + 'A') : (char)(t[i] + '0'));
+        }
+        System.out.print('\n');
     }
     public static void main(String[] args){
         Scanner in = new Scanner(System.in);
         int N = in.nextInt();
-        int[] a = null;
+        long n = -1;
         int k = 10;
-        String operation = null;
+        String operation = "";
         in.nextLine();
         while (N-- > 0){
             String[] line = in.nextLine().split("\\s+");
             if(line.length == 1){
                 switch (line[0]){
                     case "CLEAR":
-                        a = null;
+                        n = -1;
                         break;
                     case "EQUAL":
-                        print(a);
+                        print(n, k);
                         break;
                     default:
                         operation = line[0];
                 }
             }else{
                 if(line[0].equals("NUM")){
-                    if(a == null){
-                        a = parseNum(line[1].toCharArray());
+                    if(n == -1){
+                        n = parseNumTo10(line[1], k);
                     }else{
-                        int[] b = parseNum(line[1].toCharArray());
                         switch (operation){
                             case "ADD":
-                                a = add(a, b, k);
+                                n += parseNumTo10(line[1], k);
                                 break;
                             case "SUB":
-                                a = add(a, b, k);
+                                n -= parseNumTo10(line[1], k);
                                 break;
                             case "MUL":
-                                a = add(a, b, k);
+                                n *= parseNumTo10(line[1], k);
                                 break;
                             case "DIV":
-                                a = add(a, b, k);
+                                n /= parseNumTo10(line[1], k);
                                 break;
                             case "MOD":
-                                a = add(a, b, k);
+                                n %= parseNumTo10(line[1], k);
                                 break;
                         }
-                        operation = null;
+                        operation = "";
                     }
                 }else{
-                    int newK = Integer.parseInt(line[1]);
-                    a = change(a, k, newK);
-                    k = newK;
+                    k = Integer.parseInt(line[1]);
                 }
             }
         }
