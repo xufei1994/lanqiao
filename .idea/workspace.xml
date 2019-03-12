@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="98d388d9-844b-4fe5-8a7d-5343c2456ddd" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/lanqiao/primary/sevenJavaB/question7.class" afterPath="$PROJECT_DIR$/out/production/lanqiao/primary/sevenJavaB/question7.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/lanqiao/primary/sevenJavaB/question8.class" afterPath="$PROJECT_DIR$/out/production/lanqiao/primary/sevenJavaB/question8.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/lanqiao/primary/sevenJavaB/question9Primary.class" afterPath="$PROJECT_DIR$/out/production/lanqiao/primary/sevenJavaB/question9Primary.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/lanqiao/supervice/nineJavaB/question2.class" afterPath="$PROJECT_DIR$/out/production/lanqiao/supervice/nineJavaB/question2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/lanqiao/supervice/nineJavaB/question4.class" afterPath="$PROJECT_DIR$/out/production/lanqiao/supervice/nineJavaB/question4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/primary/sevenJavaB/question7.java" afterPath="$PROJECT_DIR$/src/primary/sevenJavaB/question7.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/primary/sevenJavaB/question8.java" afterPath="$PROJECT_DIR$/src/primary/sevenJavaB/question8.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/supervice/nineJavaB/question2.java" afterPath="$PROJECT_DIR$/src/supervice/nineJavaB/question2.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/supervice/nineJavaB/question4.java" afterPath="$PROJECT_DIR$/src/supervice/nineJavaB/question4.java" />
-    </list>
+    <list default="true" id="98d388d9-844b-4fe5-8a7d-5343c2456ddd" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -34,112 +23,125 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="question1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/primary/sixJavaB/question1.java">
+      <file leaf-file-name="POJ2388.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lanqiaoPractice/sort/POJ2388.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="16" lean-forward="false" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+            <state relative-caret-position="60">
+              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="question10.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/primary/sevenJavaB/question10.java">
+      <file leaf-file-name="nod1090.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lanqiaoPractice/sort/nod1090.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" column="13" lean-forward="false" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="question6.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/primary/sixJavaB/question6.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="1" lean-forward="false" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="question7.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/primary/sixJavaB/question7.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="5" lean-forward="false" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="question8.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/primary/sixJavaB/question8.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="question7.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/primary/sevenJavaB/question7.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="6" column="7" lean-forward="false" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+            <state relative-caret-position="390">
+              <caret line="26" column="50" lean-forward="false" selection-start-line="26" selection-start-column="50" selection-end-line="26" selection-end-column="50" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="method#store#0;class#question7#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LA3027.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lanqiaoPractice/uf/LA3027.java">
+      <file leaf-file-name="nod1097.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/lanqiaoPractice/sort/nod1097.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <state relative-caret-position="196">
+              <caret line="19" column="34" lean-forward="false" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="nod1095.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lanqiaoPractice/sort/nod1095.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="484">
+              <caret line="37" column="1" lean-forward="true" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LA3644.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lanqiaoPractice/uf/LA3644.java">
+      <file leaf-file-name="nod1267.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lanqiaoPractice/sort/nod1267.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <state relative-caret-position="360">
+              <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
               <folding>
-                <element signature="class#UF#0;class#LA3644#0" expanded="false" />
-                <element signature="e#588#589#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="POJ1002.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lanqiaoPractice/sort/POJ1002.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="417">
+              <caret line="83" column="9" lean-forward="true" selection-start-line="83" selection-start-column="9" selection-end-line="83" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="POJ1007Primary.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lanqiaoPractice/sort/POJ1007Primary.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="15" column="38" lean-forward="false" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#599#600#0" expanded="true" />
                 <element signature="e#637#638#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HDU1232.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/lanqiaoPractice/uf/HDU1232.java">
+      <file leaf-file-name="POJ1007X2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lanqiaoPractice/sort/POJ1007X2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="40" column="5" lean-forward="true" selection-start-line="5" selection-start-column="2" selection-end-line="40" selection-end-column="5" />
+            <state relative-caret-position="88">
+              <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
               <folding>
-                <element signature="e#1059#1060#0" expanded="true" />
-                <element signature="e#1095#1096#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="class#MergeSort#0;class#POJ1007X2#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Poj1611.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/lanqiaoPractice/uf/Poj1611.java">
+      <file leaf-file-name="POJ1007X1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lanqiaoPractice/sort/POJ1007X1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="245">
-              <caret line="25" column="15" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="716">
+              <caret line="70" column="9" lean-forward="false" selection-start-line="70" selection-start-column="9" selection-end-line="70" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1551#1552#0" expanded="true" />
+                <element signature="e#1589#1590#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="nod1019.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/lanqiaoPractice/sort/nod1019.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="60" column="0" lean-forward="true" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="class#MergeSort#0;class#nod1019#0" expanded="false" />
+                <element signature="method#sort#0;class#MergeSort#0;class#nod1019#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -149,8 +151,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Algorithms" />
         <option value="Class" />
+        <option value="Algorithms" />
       </list>
     </option>
   </component>
@@ -160,13 +162,18 @@
       <find />
       <find>i</find>
       <find>long i</find>
+      <find>char</find>
     </findStrings>
     <replaceStrings>
       <replace>j &lt; C</replace>
       <replace>,</replace>
       <replace>j</replace>
       <replace>int i</replace>
+      <replace>int</replace>
     </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/lanqiaoPractice/binarySearch</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -179,19 +186,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/lanqiaoCourse/course4/course4_2_2.java" />
-        <option value="$PROJECT_DIR$/src/lanqiaoCourse/course4/course4_2天平称重.txt" />
-        <option value="$PROJECT_DIR$/src/lanqiaoCourse/course5/course5_3.java" />
-        <option value="$PROJECT_DIR$/src/lanqiaoCourse/course5/course5_2.java" />
-        <option value="$PROJECT_DIR$/src/lanqiaoCourse/course5/course5_4.java" />
-        <option value="$PROJECT_DIR$/src/lanqiaoCourse/course5/火柴游戏.txt" />
-        <option value="$PROJECT_DIR$/src/lanqiaoCourse/course5/course5_5:火柴游戏.txt" />
-        <option value="$PROJECT_DIR$/src/lanqiaoCourse/course1/course1_2.java" />
-        <option value="$PROJECT_DIR$/src/primary/nineJavaB/nine.java" />
-        <option value="$PROJECT_DIR$/src/primary/nineJavaB/question1.java" />
-        <option value="$PROJECT_DIR$/src/primary/nineJavaB/Main.java" />
-        <option value="$PROJECT_DIR$/src/primary/nineJavaB/question7.java" />
-        <option value="$PROJECT_DIR$/src/primary/nineJavaB/question9.java" />
         <option value="$PROJECT_DIR$/src/supervice/nineJavaB/question1.java" />
         <option value="$PROJECT_DIR$/src/primary/sevenJavaB/question1.java" />
         <option value="$PROJECT_DIR$/src/primary/sevenJavaB/question2.java" />
@@ -230,6 +224,19 @@
         <option value="$PROJECT_DIR$/src/lanqiaoPractice/LA3644.java" />
         <option value="$PROJECT_DIR$/src/lanqiaoPractice/HDU1232.java" />
         <option value="$PROJECT_DIR$/src/lanqiaoPractice/uf/Poj1611.java" />
+        <option value="$PROJECT_DIR$/src/lanqiaoPractice/sort/nod1095.java" />
+        <option value="$PROJECT_DIR$/src/lanqiaoPractice/sort/nod1267.java" />
+        <option value="$PROJECT_DIR$/src/lanqiaoPractice/uf/LA3644.java" />
+        <option value="$PROJECT_DIR$/src/lanqiaoPractice/sort/POJ2388.java" />
+        <option value="$PROJECT_DIR$/src/lanqiaoPractice/binarySearch/nod1010.java" />
+        <option value="$PROJECT_DIR$/src/lanqiaoPractice/sort/POJ1002.java" />
+        <option value="$PROJECT_DIR$/src/lanqiaoPractice/sort/POJ1007Primary.java" />
+        <option value="$PROJECT_DIR$/src/lanqiaoPractice/sort/POJ1007.java" />
+        <option value="$PROJECT_DIR$/src/lanqiaoPractice/sort/POJ1007X2.java" />
+        <option value="$PROJECT_DIR$/src/lanqiaoPractice/sort/POJ1007X1.java" />
+        <option value="$PROJECT_DIR$/src/lanqiaoPractice/sort/nod1019.java" />
+        <option value="$PROJECT_DIR$/src/lanqiaoPractice/sort/nod1090.java" />
+        <option value="$PROJECT_DIR$/src/lanqiaoPractice/sort/nod1097.java" />
       </list>
     </option>
   </component>
@@ -362,7 +369,7 @@
               <item name="lanqiao" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="lanqiaoPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="uf" type="462c0819:PsiDirectoryNode" />
+              <item name="sort" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="lanqiao" type="b2602c69:ProjectViewProjectNode" />
@@ -386,20 +393,21 @@
     <property name="ToolWindowAnt Build.ShowToolbar" value="false" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/lanqiaoCourse/course5" />
-      <recent name="$PROJECT_DIR$/src/lanqiaoCourse" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="primary.sevenJavaB" />
-      <recent name="lanqiaoCourse.course5" />
-      <recent name="lanqiaoCourse" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/lanqiaoCourse/course4" />
       <recent name="$PROJECT_DIR$/src/lanqiaoCourse/course3" />
       <recent name="$PROJECT_DIR$/src/lanqiaoCourse/course2" />
       <recent name="$PROJECT_DIR$/src/lanqiaoCourse/course1" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="lanqiaoPractice.sort" />
+      <recent name="primary.sevenJavaB" />
+      <recent name="lanqiaoCourse.course5" />
+      <recent name="lanqiaoCourse" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/lanqiaoCourse/course5" />
+      <recent name="$PROJECT_DIR$/src/lanqiaoCourse" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -414,45 +422,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Poj1611">
-    <configuration name="HDU1232" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="lanqiaoPractice.uf.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="lanqiaoPractice.uf.HDU1232" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="lanqiao" />
-      <envs />
-    </configuration>
-    <configuration name="LA3027" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="lanqiaoPractice.uf.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="lanqiaoPractice.uf.LA3027" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="lanqiao" />
-      <envs />
-    </configuration>
+  <component name="RunManager" selected="Application.nod1097">
     <configuration name="LA3644" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -472,14 +442,52 @@
       <module name="lanqiao" />
       <envs />
     </configuration>
-    <configuration name="Poj1611" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="POJ1002" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="lanqiaoPractice.uf.*" />
+          <option name="PATTERN" value="lanqiaoPractice.sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="lanqiaoPractice.uf.Poj1611" />
+      <option name="MAIN_CLASS_NAME" value="lanqiaoPractice.sort.POJ1002" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="lanqiao" />
+      <envs />
+    </configuration>
+    <configuration name="POJ1007Primary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="lanqiaoPractice.sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="lanqiaoPractice.sort.POJ1007Primary" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="lanqiao" />
+      <envs />
+    </configuration>
+    <configuration name="POJ1007X2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="lanqiaoPractice.sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="lanqiaoPractice.sort.POJ1007X2" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -590,14 +598,33 @@
       <module name="lanqiao" />
       <envs />
     </configuration>
-    <configuration name="question7 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="nod1019" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="primary.sevenJavaB.*" />
+          <option name="PATTERN" value="lanqiaoPractice.sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="primary.sevenJavaB.question7" />
+      <option name="MAIN_CLASS_NAME" value="lanqiaoPractice.sort.nod1019" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="lanqiao" />
+      <envs />
+    </configuration>
+    <configuration name="nod1097" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="lanqiaoPractice.sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="lanqiaoPractice.sort.nod1097" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -610,19 +637,19 @@
       <envs />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.question7 (1)" />
-      <item index="1" class="java.lang.String" itemvalue="Application.LA3027" />
-      <item index="2" class="java.lang.String" itemvalue="Application.LA3644" />
-      <item index="3" class="java.lang.String" itemvalue="Application.HDU1232" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Poj1611" />
+      <item index="0" class="java.lang.String" itemvalue="Application.LA3644" />
+      <item index="1" class="java.lang.String" itemvalue="Application.POJ1002" />
+      <item index="2" class="java.lang.String" itemvalue="Application.POJ1007X2" />
+      <item index="3" class="java.lang.String" itemvalue="Application.nod1019" />
+      <item index="4" class="java.lang.String" itemvalue="Application.nod1097" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Poj1611" />
-        <item index="1" class="java.lang.String" itemvalue="Application.HDU1232" />
-        <item index="2" class="java.lang.String" itemvalue="Application.LA3644" />
-        <item index="3" class="java.lang.String" itemvalue="Application.LA3027" />
-        <item index="4" class="java.lang.String" itemvalue="Application.question7 (1)" />
+        <item index="0" class="java.lang.String" itemvalue="Application.nod1097" />
+        <item index="1" class="java.lang.String" itemvalue="Application.nod1019" />
+        <item index="2" class="java.lang.String" itemvalue="Application.POJ1007X2" />
+        <item index="3" class="java.lang.String" itemvalue="Application.POJ1007Primary" />
+        <item index="4" class="java.lang.String" itemvalue="Application.POJ1002" />
       </list>
     </recent_temporary>
   </component>
@@ -659,16 +686,15 @@
       <workItem from="1551954516142" duration="6837000" />
       <workItem from="1552006582706" duration="4261000" />
       <workItem from="1552116522606" duration="87000" />
-      <workItem from="1552213761583" duration="7027000" />
+      <workItem from="1552213761583" duration="26621000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="164634000" />
+    <option name="totallyTimeSpent" value="184228000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="712" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -678,13 +704,15 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32692307" sideWeight="0.5193861" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4554295" sideWeight="0.4806139" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4554295" sideWeight="0.4806139" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31987077" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -695,10 +723,8 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956383" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -717,7 +743,7 @@
           <option name="timeStamp" value="50" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="192" />
+      <option name="time" value="221" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -726,86 +752,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/lanqiaoCourse/course4/course4_2天平称重.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lanqiaoCourse/course4/course4_2_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="38" lean-forward="false" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lanqiaoCourse/course4/course4_2_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="38" column="34" lean-forward="false" selection-start-line="38" selection-start-column="23" selection-end-line="38" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lanqiaoCourse/course1/course1_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="125" lean-forward="false" selection-start-line="5" selection-start-column="125" selection-end-line="5" selection-end-column="125" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lanqiaoCourse/course1/course1_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="175" column="0" lean-forward="false" selection-start-line="175" selection-start-column="0" selection-end-line="175" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/primary/nineJavaB/Main.java" />
-    <entry file="file://$PROJECT_DIR$/print.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="0" column="68829" lean-forward="false" selection-start-line="0" selection-start-column="68829" selection-end-line="0" selection-end-column="68829" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/util/Map.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="211" column="6" lean-forward="false" selection-start-line="211" selection-start-column="6" selection-end-line="211" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/lang/System.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="352" column="30" lean-forward="false" selection-start-line="352" selection-start-column="30" selection-end-line="352" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/primary/sevenJavaA/question3.java" />
-    <entry file="file://$PROJECT_DIR$/src/supervice/sevenJavaB/question1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/util/Random.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="385" column="15" lean-forward="false" selection-start-line="385" selection-start-column="15" selection-end-line="385" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="103">
-          <caret line="1886" column="29" lean-forward="true" selection-start-line="1886" selection-start-column="29" selection-end-line="1886" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/primary/eightJavaB/question2.java" />
     <entry file="file://$PROJECT_DIR$/src/supervice/nineJavaB/question3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="990">
@@ -1051,7 +997,7 @@
         <state relative-caret-position="15">
           <caret line="6" column="7" lean-forward="false" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
             <element signature="method#store#0;class#question7#0" expanded="false" />
           </folding>
         </state>
@@ -1062,18 +1008,6 @@
         <state relative-caret-position="60">
           <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lanqiaoPractice/uf/LA3644.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding>
-            <element signature="class#UF#0;class#LA3644#0" expanded="false" />
-            <element signature="e#588#589#0" expanded="true" />
-            <element signature="e#637#638#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1090,8 +1024,154 @@
         <state relative-caret-position="198">
           <caret line="40" column="5" lean-forward="true" selection-start-line="5" selection-start-column="2" selection-end-line="40" selection-end-column="5" />
           <folding>
-            <element signature="e#1059#1060#0" expanded="true" />
-            <element signature="e#1095#1096#0" expanded="true" />
+            <element signature="e#1059#1060#0" expanded="false" />
+            <element signature="e#1095#1096#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="239" column="6" lean-forward="false" selection-start-line="239" selection-start-column="6" selection-end-line="239" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_101.jdk/Contents/Home/src.zip!/java/lang/NumberFormatException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="64" column="0" lean-forward="false" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lanqiaoPractice/dfs/POJ1021.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lanqiaoPractice/uf/LA3644.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="22" column="23" lean-forward="false" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+          <folding>
+            <element signature="e#588#589#0" expanded="true" />
+            <element signature="e#637#638#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lanqiaoPractice/binarySearch/nod1010.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="16" column="9" lean-forward="false" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lanqiaoPractice/sort/POJ1007Primary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="15" column="38" lean-forward="false" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#599#600#0" expanded="true" />
+            <element signature="e#637#638#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lanqiaoPractice/sort/nod1019.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="60" column="0" lean-forward="true" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="class#MergeSort#0;class#nod1019#0" expanded="false" />
+            <element signature="method#sort#0;class#MergeSort#0;class#nod1019#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lanqiaoPractice/sort/nod1095.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="37" column="1" lean-forward="true" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lanqiaoPractice/sort/POJ1007X1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="716">
+          <caret line="70" column="9" lean-forward="false" selection-start-line="70" selection-start-column="9" selection-end-line="70" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1551#1552#0" expanded="true" />
+            <element signature="e#1589#1590#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lanqiaoPractice/sort/POJ1007X2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="class#MergeSort#0;class#POJ1007X2#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lanqiaoPractice/sort/POJ2388.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lanqiaoPractice/sort/POJ1002.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="417">
+          <caret line="83" column="9" lean-forward="true" selection-start-line="83" selection-start-column="9" selection-end-line="83" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lanqiaoPractice/sort/nod1267.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lanqiaoPractice/sort/nod1090.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="50" lean-forward="false" selection-start-line="26" selection-start-column="50" selection-end-line="26" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lanqiaoPractice/sort/nod1097.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="19" column="34" lean-forward="false" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
