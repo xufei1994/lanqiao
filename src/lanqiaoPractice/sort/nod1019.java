@@ -5,13 +5,11 @@ import java.util.Arrays;
 
 public class nod1019 {
     private static class MergeSort{
-        static int[] c;
         static int[] aux;
         static int N;
         static int count = 0;
         private MergeSort(){ }
         static int sort(int[] c){
-            MergeSort.c = c;
             N = c.length;
             aux = Arrays.copyOf(c, N);
             count = 0;

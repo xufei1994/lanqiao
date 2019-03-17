@@ -3,7 +3,6 @@ package lanqiaoPractice.uf;
 import java.io.*;
 
 public class LA3027 {
-
     public static void main(String[] args) throws IOException {
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in), 1 << 16);
         BufferedWriter writer = new BufferedWriter(new OutputStreamWriter(System.out), 1 << 16);
@@ -12,6 +11,7 @@ public class LA3027 {
             int N = Integer.parseInt(reader.readLine());
             int[] dist = new int[N + 1];
             int[] id = new int[N + 1];
+            // dist[i] = i -> id[i]
             for(int i = 1; i <= N; i++) id[i] = i;
             String line;
             String[] parm;
